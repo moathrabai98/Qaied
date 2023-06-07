@@ -1,0 +1,70 @@
+.container {
+    font-family: "Arial", sans-serif;
+    margin-top: 20px;
+  }
+  
+  .row {
+    margin-bottom: 10px;
+  }
+  
+  .btn-lg {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .dropdown-selector {
+    width: 200px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .modal {
+    font-family: "Arial", sans-serif;
+  }
+  
+  .modal-content {
+    padding: 20px;
+  }
+  
+  .modal-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .modal-body {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .pagination {
+    margin-top: 10px;
+  }
+  
+  .error-container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .error-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .error-message {
+    font-size: 16px;
+  }
+  

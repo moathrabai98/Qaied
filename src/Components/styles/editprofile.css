@@ -1,0 +1,16 @@
+CSS
+.change-password-label {
+    /* display: flex; */
+    align-items: center;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .change-password-label:hover {
+    color: rgb(255, 16, 16);
+  }
+
+  
+  .change-password-label span {
+    font-weight: bold;
+  }
+  

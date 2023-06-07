@@ -1,0 +1,12 @@
+.search-categories-container {
+  display: flex;
+  align-items: center;
+}
+
+.input-group {
+  margin-right: 10px; /* Adjust the spacing between the search bar and categories */
+}
+
+/* Additional CSS styles for the search bar if needed */
+#navbar , .container{
+  font-family: 'Cairo', sans-serif;}

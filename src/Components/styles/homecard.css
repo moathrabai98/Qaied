@@ -1,0 +1,30 @@
+
+
+  .card-text {
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .card-text:hover {
+    color: blue;
+    text-decoration: underline;
+  }
+  .home-card-container {
+      display: flex;
+  flex-direction: column; /* Display as column */
+  align-items: center;
+  }
+  
+  .home-card {
+    border: none; /* Remove the border */
+  }
+  
+  .home-card-img {
+    border-radius: 50%; /* Make the image circular */
+  }
+  .home-card-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+    
